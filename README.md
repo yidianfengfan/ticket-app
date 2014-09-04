@@ -79,3 +79,16 @@
 ```
 
 更多如何创建应用搭建工单系统、技术分享请见 [Wiki](https://github.com/avoscloud/ticket-app/wiki)。
+
+##Wiki 
+
+搭建系统与阅读指南
+
+* [申请应用搭建工单系统指南](https://github.com/avoscloud/ticket-app/wiki/%E7%94%B3%E8%AF%B7%E5%BA%94%E7%94%A8%E6%90%AD%E5%BB%BA%E5%B7%A5%E5%8D%95%E7%B3%BB%E7%BB%9F%E6%8C%87%E5%8D%97)
+* [阅读代码指南](https://github.com/avoscloud/ticket-app/wiki/%E9%98%85%E8%AF%BB%E4%BB%A3%E7%A0%81%E6%8C%87%E5%8D%97)
+
+技术分享
+
+* [从 url 访问到网页展示](https://github.com/avoscloud/ticket-app/wiki/%E4%BB%8E-url-%E8%AE%BF%E9%97%AE%E5%88%B0%E7%BD%91%E9%A1%B5%E5%B1%95%E7%A4%BA)
+* [并行Promise处理](https://github.com/avoscloud/ticket-app/wiki/%E5%B9%B6%E8%A1%8CPromise%E5%A4%84%E7%90%86)
+* [用户信息更改页的处理方法](https://github.com/avoscloud/ticket-app/wiki/%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF%E6%9B%B4%E6%94%B9%E9%A1%B5%E7%9A%84%E5%A4%84%E7%90%86%E6%96%B9%E6%B3%95)
