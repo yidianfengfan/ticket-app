@@ -26,7 +26,7 @@ function findClient(req, res, f) {
       var user = muser.transfromUser(curUser);
       setResLoginStatus(res, true, user);
       f.call(this, user.token, user.id, user);
-    },res.renderErrorFn(res));
+    },mutil.renderErrorFn(res));
   } else {
     var anonymousClient = {
       id: anonymousCid,
