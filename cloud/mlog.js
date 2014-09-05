@@ -1,6 +1,7 @@
 /**
  * Created by lzw on 14-8-8.
  */
+var util=require('util');
 
 var open=!__production;
 //var open=true;
