@@ -6,7 +6,7 @@
 
 这是 AVOS Cloud 的工单系统的开源版本。请见 [myticket.avosapps.com](http://myticket.avosapps.com)
 
-## 当前使用本开源工单系统搭建的网站
+## 当前使用本项目搭建的网站
 * https://yanest.avosapps.com
 * https://ticket.avosapps.com
 
