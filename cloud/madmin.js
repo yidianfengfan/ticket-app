@@ -104,6 +104,10 @@ function addOrDelArrItem(id, arrName, item) {
   var p = new AV.Promise();
   findAdminById(id).then(function (admin) {
     var names = admin.get(arrName);
+    if(names==null){
+      admin.set(arrName,[]);
+      names=[];
+    }
     var i = names.indexOf(item);
     if (i >= 0) {
       admin.remove(arrName, item);

@@ -485,7 +485,7 @@ function getStatisticsEachType(admins, ticketThreads) {
   for (var type in type2showMap) {
     type2name[type] = [];
     admins.forEach(function (admin) {
-      if (admin.types.indexOf(type) >= 0) {
+      if (admin.types && admin.types.indexOf(type) >= 0) {
         type2name[type].push(admin.username);
       }
     });
