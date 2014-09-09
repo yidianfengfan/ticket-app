@@ -9,6 +9,7 @@
 ## 当前使用本项目搭建的网站
 * https://ticket.avosapps.com
 * https://yanest.avosapps.com
+* https://myticket.avosapps.com
 
 
 这是基于 AVOS Cloud 的 **Javascript SDK** 和 **云代码** 功能做的。
