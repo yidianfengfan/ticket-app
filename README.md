@@ -98,3 +98,8 @@
 * [从 url 访问到网页展示](https://github.com/avoscloud/ticket-app/wiki/%E4%BB%8E-url-%E8%AE%BF%E9%97%AE%E5%88%B0%E7%BD%91%E9%A1%B5%E5%B1%95%E7%A4%BA)
 * [并行Promise处理](https://github.com/avoscloud/ticket-app/wiki/%E5%B9%B6%E8%A1%8CPromise%E5%A4%84%E7%90%86)
 * [用户信息更改页的处理方法](https://github.com/avoscloud/ticket-app/wiki/%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF%E6%9B%B4%E6%94%B9%E9%A1%B5%E7%9A%84%E5%A4%84%E7%90%86%E6%96%B9%E6%B3%95)
+
+
+## License
+
+MIT
