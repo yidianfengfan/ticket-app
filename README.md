@@ -104,5 +104,5 @@
 
 MIT
 
-[其它下载地址](https://download.avoscloud.com/demo/)
+[AVOS Cloud 站点下载地址](https://download.avoscloud.com/demo/)
 
