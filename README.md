@@ -103,3 +103,6 @@
 ## License
 
 MIT
+
+[其它下载地址](https://download.avoscloud.com/demo/)
+
