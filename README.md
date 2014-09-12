@@ -54,10 +54,10 @@
 ![img](https://raw.githubusercontent.com/avoscloud/ticket-app/master/readme/contact.png)
 
 ### 搜索工单
-![img](https://raw.githubusercontent.com/avoscloud/ticket-app/blob/master/readme/search.png)
+![img](https://raw.githubusercontent.com/avoscloud/ticket-app/master/readme/search.png)
 
 ### 工程师回复统计
-![img](https://raw.githubusercontent.com/avoscloud/ticket-app/blob/master/readme/stat.png)
+![img](https://raw.githubusercontent.com/avoscloud/ticket-app/master/readme/stat.png)
 
 
 改一下工单类别，增加几个管理员登录，改一下标题 `AVOS Cloud 技术支持系统`，就可以为你的公司、团队也搭建一个技术支持系统。
