@@ -39,19 +39,19 @@
 ## 工单系统的特性
 
 ###列举工单
-![img](https://raw.githubusercontent.com/avoscloud/ticket-app/blob/master/readme/list.png)
+![img](https://raw.githubusercontent.com/avoscloud/ticket-app/master/readme/list.png)
 
 ###根据工程师负责模块的不同，显示相应类型的工单，分工明确
-![img](https://raw.githubusercontent.com/avoscloud/ticket-app/blob/master/readme/filter.png)
+![img](https://raw.githubusercontent.com/avoscloud/ticket-app/master/readme/filter.png)
 
 ###一个简洁的时间线回复
-![img](https://raw.githubusercontent.com/avoscloud/ticket-app/blob/master/readme/reply.png)
+![img](https://raw.githubusercontent.com/avoscloud/ticket-app/master/readme/reply.png)
 
 ### 与内部沟通工具相集成，方便及时回复
-![img](https://raw.githubusercontent.com/avoscloud/ticket-app/blob/master/readme/integration.png)
+![img](https://raw.githubusercontent.com/avoscloud/ticket-app/master/readme/integration.png)
 
 ### 工程师联系信息列表
-![img](https://raw.githubusercontent.com/avoscloud/ticket-app/blob/master/readme/contact.png)
+![img](https://raw.githubusercontent.com/avoscloud/ticket-app/master/readme/contact.png)
 
 ### 搜索工单
 ![img](https://raw.githubusercontent.com/avoscloud/ticket-app/blob/master/readme/search.png)
