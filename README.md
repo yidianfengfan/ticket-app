@@ -39,25 +39,25 @@
 ## 工单系统的特性
 
 ###列举工单
-![img](https://github.com/avoscloud/ticket-app/blob/master/readme/list.png)
+![img](https://raw.githubusercontent.com/avoscloud/ticket-app/blob/master/readme/list.png)
 
 ###根据工程师负责模块的不同，显示相应类型的工单，分工明确
-![img](https://github.com/avoscloud/ticket-app/blob/master/readme/filter.png)
+![img](https://raw.githubusercontent.com/avoscloud/ticket-app/blob/master/readme/filter.png)
 
 ###一个简洁的时间线回复
-![img](https://github.com/avoscloud/ticket-app/blob/master/readme/reply.png)
+![img](https://raw.githubusercontent.com/avoscloud/ticket-app/blob/master/readme/reply.png)
 
 ### 与内部沟通工具相集成，方便及时回复
-![img](https://github.com/avoscloud/ticket-app/blob/master/readme/integration.png)
+![img](https://raw.githubusercontent.com/avoscloud/ticket-app/blob/master/readme/integration.png)
 
 ### 工程师联系信息列表
-![img](https://github.com/avoscloud/ticket-app/blob/master/readme/contact.png)
+![img](https://raw.githubusercontent.com/avoscloud/ticket-app/blob/master/readme/contact.png)
 
 ### 搜索工单
-![img](https://github.com/avoscloud/ticket-app/blob/master/readme/search.png)
+![img](https://raw.githubusercontent.com/avoscloud/ticket-app/blob/master/readme/search.png)
 
 ### 工程师回复统计
-![img](https://github.com/avoscloud/ticket-app/blob/master/readme/stat.png)
+![img](https://raw.githubusercontent.com/avoscloud/ticket-app/blob/master/readme/stat.png)
 
 
 改一下工单类别，增加几个管理员登录，改一下标题 `AVOS Cloud 技术支持系统`，就可以为你的公司、团队也搭建一个技术支持系统。
