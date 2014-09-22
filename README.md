@@ -8,7 +8,7 @@
 
 ## 当前使用本项目搭建的网站
 * https://ticket.avosapps.com
-* https://yanest.avosapps.com
+* https://yanest.avosapps.com (http://tickets.lingyun.io/)
 * https://myticket.avosapps.com
 * https://support.avosapps.com
 * https://sustcticket.avosapps.com
