@@ -9,7 +9,7 @@ exports.applicationKey='4qpz4cv388iokx8t8ahety5pnxc95zrq9jpenxbqtdbl3wmz';
 exports.cookieParserSalt="klp4e8b4sddjp2";
 
 //mailGun，一个邮箱服务提供商，当有新工单创建或有回复的时候用到
-exports.mailGunKey='';//please use your mailGunKey
+exports.mailGunKey='yidianfengfan@126.com';//please use your mailGunKey
 
 //请设置自己的slackUrl，有工单回复的时候通知此slack聊天工具
 exports.slackUrl='https://avoscloud.slack.com/services/hooks/incoming-webhook?token=rNDqBLRC8TlG4YkPKBZSe2qB';
